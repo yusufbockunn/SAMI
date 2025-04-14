@@ -1,9 +1,10 @@
 #pragma once
 
 #include "SAMI/Application.h"
+#include "SAMI/Log.h"
 
 
-#include <stdio.h>
+
 //------Entry Point------------
 #include "SAMI/EntryPoint.h"
 

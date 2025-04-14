@@ -19,7 +19,7 @@ public:
 
 
 
-SAMI::Application* SAMI::CreateApplication()
+SAMI::Application* SAMI::CreateApplication() 
 {
 
 	return new Sandbox();

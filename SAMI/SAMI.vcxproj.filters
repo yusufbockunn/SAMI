@@ -27,9 +27,15 @@
     <ClInclude Include="src\SAMI\EntryPoint.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\SAMI\Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\SAMI\Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\SAMI\Log.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

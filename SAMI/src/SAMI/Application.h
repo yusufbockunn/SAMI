@@ -9,6 +9,7 @@ namespace SAMI
 	{
 	public:
 
+
 		Application();
 		virtual~Application();
 		void Run();
