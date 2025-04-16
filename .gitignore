@@ -1,6 +1,33 @@
-#Directories
+# Directories
 bin/
 .vs/
+build/
+CMakeFiles/
 
-#Files
+# CMake specific files
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# VS specific files
+.vs/
+.vscode/
+
+# Visual Studio project and solution files (usually not shared)
+*.sln
+*.vcxproj*
+*.vcxproj.user
 *.user
+*.suo
+*.sdf
+*.db
+*.pidb
+*.pdb
+*.cache
+*.log
+
+# Build outputs
+/*.obj
+/*.exe
+/*.dll
+/*.pdb

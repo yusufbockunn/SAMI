@@ -41,4 +41,6 @@ namespace SAMI
 #define SM_FATAL(...) ::SAMI::Log::GetClientLogger()->fatal(__VA_ARGS__)
 
 
+//ENGINE SIDE
 
+//#define SM_ENGINE_ERROR(...):: SAMI

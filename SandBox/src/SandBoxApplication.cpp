@@ -1,4 +1,4 @@
-#include <SAMI.h>
+#include <SAMI/SAMI.h>
 
 
 class Sandbox:public SAMI::Application
